@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularStagesApi", "AngularStagesApi\AngularStagesApi.csproj", "{7EECCBC3-7CC7-4DD9-A8B8-C1FB5498574B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularStagesDLL", "AngularStagesDLL\AngularStagesDLL.csproj", "{068BCEAF-B89F-452E-B5C5-E11D8C6DF188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EECCBC3-7CC7-4DD9-A8B8-C1FB5498574B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EECCBC3-7CC7-4DD9-A8B8-C1FB5498574B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EECCBC3-7CC7-4DD9-A8B8-C1FB5498574B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EECCBC3-7CC7-4DD9-A8B8-C1FB5498574B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068BCEAF-B89F-452E-B5C5-E11D8C6DF188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068BCEAF-B89F-452E-B5C5-E11D8C6DF188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068BCEAF-B89F-452E-B5C5-E11D8C6DF188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068BCEAF-B89F-452E-B5C5-E11D8C6DF188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B912E9F8-06EF-4297-ACFE-6B9A4F5A7504}
+	EndGlobalSection
+EndGlobal
